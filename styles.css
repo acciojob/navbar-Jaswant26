@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+*{
+	padding:0px;
+	margin:0px;
+}
+nav, .nav-1, .nav-2, ul{
+	display:flex;
+	justify-content:space-between;
+	background-color:#6e072d;
+	color:white;
+	
+}
+ul{
+	list-style:none;
+	font-size:18px;
+	
+}
+.vertical-line{
+	border:2px solid white;
+}
+.nav-1, .nav-2{
+	padding-inline:18px;
+	padding-x:18.5px;	
+}
