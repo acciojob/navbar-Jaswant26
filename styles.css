@@ -15,6 +15,9 @@ ul{
 	font-size:18px;
 	
 }
+li{
+	cursor:pointer;
+}
 .vertical-line{
 	border:2px solid white;
 }
@@ -23,6 +26,6 @@ ul{
 	padding-x:18.5px;	
 }
 li:hover{
-	cursor:pointer;
+	
 	background-color:#b90e4d;
 }
