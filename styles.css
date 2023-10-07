@@ -22,3 +22,7 @@ ul{
 	padding-inline:18px;
 	padding-x:18.5px;	
 }
+li:hover{
+	cursor:pointer;
+	background-color:#b90e4d;
+}
